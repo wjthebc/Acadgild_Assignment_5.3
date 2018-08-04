@@ -1,0 +1,28 @@
+body
+  {
+  /*removes extra space*/
+  margin: 0 auto;
+   }
+
+header
+  {
+  /*defines dimensions*/
+  height:100%;
+  width:100%;
+  /*sets header as flex layout*/
+  display: flex;
+  }
+
+div
+{
+  /*makes background green*/
+  background:green;
+  /*determines dimensions*/
+  width: 33%;
+  height: 500px;
+  margin: 10px;
+  /*adds padding*/
+  padding: 10px;
+  /*centers text*/
+  text-align:center;
+}
